@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ming2242/ming2242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
