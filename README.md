@@ -40,9 +40,9 @@
 ![n8n](https://img.shields.io/badge/n8n-00C853?style=for-the-badge&logo=n8n&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Megapotatosan&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Megapotatosan&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Megapotatosan&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Megapotatosan&layout=compact&theme=radical)
 ## 📫 Contact
 - 📧 Email: [jackyhui@mail.megasan.xyz](mailto:jackyhui@mail.megasan.xyz)
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/kamingh)
