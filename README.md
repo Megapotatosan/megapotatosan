@@ -44,7 +44,7 @@
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Megapotatosan&layout=compact&theme=radical)
 ## 📫 Contact
-- 📧 Email: [jackyhui@mail.megasan.xyz](mailto:jackyhui@mail.megasan.xyz)
+- 📧 Email: `jackyhui [at] mail [dot] megasan [dot] xyz`
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/kamingh)
 - 🌐 Website: [info](https://info.megasan.xyz)
 
